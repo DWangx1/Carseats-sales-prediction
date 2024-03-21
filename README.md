@@ -38,7 +38,8 @@ The comprehensive analysis underscores the importance of shelving location in pr
 
 ## How to Use
 1. Clone this repository to access the analysis scripts and datasets.
-2. Run the `sales_prediction_analysis.R` script for a detailed walkthrough of the data processing, analysis, and modeling steps.
+2. Explore the Markdown file for a walkthrough of the project's thought process and analytical approach.
+3. Run the `sales_prediction_analysis.R` script for a detailed walkthrough of the data processing, analysis, and modeling steps.
 
 ## Contact
 For any further inquiries or contributions, please reach out to David Wang at david_whz@hotmail.com.
