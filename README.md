@@ -1,6 +1,6 @@
-# STAT-350 Term Project
-
 # Child Car Seat Sales Prediction
+
+# STAT-350 Term Project
 
 ## Introduction
 
