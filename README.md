@@ -24,9 +24,8 @@ This project aims to predict the unit sales of child car seats at various store 
 - Evaluation of models based on Cross-Validation (CV) and Relative Mean Squared Prediction Error (RMSPE) to select the optimal model.
 
 ## Tools and Technologies
-- **Statistical Analysis Software:** SAS for data manipulation and initial analysis, R for advanced modeling and visualization.
-- **Data Visualization:** Utilized R packages like `ggplot2` for creating informative graphics.
-- **Modeling Techniques:** MLR, Ridge Regression, LASSO, with a focus on tuning and validation.
+- **Statistical Analysis Software:** R for advanced modeling and visualization.
+- **Modeling Techniques:** MLR, Ridge Regression, LASSO/
 
 ## Key Findings
 - The MLR model demonstrated the highest predictive accuracy, validating the initial model adequacy checks and variable selection process.
@@ -41,5 +40,6 @@ The comprehensive analysis underscores the importance of shelving location in pr
 2. Explore the Markdown file for a walkthrough of the project's thought process and analytical approach.
 3. Run the `sales_prediction_analysis.R` script for a detailed walkthrough of the data processing, analysis, and modeling steps.
 
-## Contact
-For any further inquiries or contributions, please reach out to David Wang at david_whz@hotmail.com.
+**Sources:**  
+- [Carseats Dataset on rdrr.io](https://rdrr.io/cran/ISLR/man/Carseats.html)
+
